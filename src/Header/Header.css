@@ -1,0 +1,27 @@
+.header-class nav {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(42, 30, 53);
+    background-color: rgb(130, 146, 146);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+    /* margin: 10px; */
+
+}
+
+.header-class nav:hover {
+    color: crimson;
+}
+
+.text {
+    text-decoration: none;
+}
+
+.active {
+    background-color: chartreuse;
+    border-radius: 5px;
+    padding: 5px;
+    /* margin: 2px; */
+    text-decoration: none;
+}
